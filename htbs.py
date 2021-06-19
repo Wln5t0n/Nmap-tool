@@ -2,7 +2,7 @@
 import sys
 from os import system as cmd
 
-print(" \n Nmap scanning tool by 'comradesec' follow on github. \n\n")
+print(" \n Nmap scanning tool by 'sar1m' follow on github. \n\n")
 
 if len(sys.argv)==2:
         
@@ -24,4 +24,4 @@ if len(sys.argv)==2:
 else:
         sys.stderr.write("Usage: {0} <last digits of IP>\n\n".format(sys.argv[0]))
         
-print("\n\n follow me on:- https://github.com/Comradesec")
+print("\n\n follow me on:- https://github.com/sar1m")
